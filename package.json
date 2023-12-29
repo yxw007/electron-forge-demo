@@ -33,7 +33,7 @@
           "config": {
             "name": "electron-forge-demo",
             "loadingGif": "./src/install.gif",
-            "iconUrl": "https: //cdn.jsdelivr.net/gh/yxw007/BlogPicBed@master//img/20231229104647.svg",
+            "iconUrl": "http://5b0988e595225.cdn.sohucs.com/images/20190603/e40f1abbe11a4a84b1d3d37d8ee21d50.jpeg",
             "setupIcon": "./src/favicon.ico",
             "noMsi": true
           }
