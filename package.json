@@ -1,7 +1,7 @@
 {
   "name": "electron-forge-demo",
   "productName": "electron-forge-demo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My Electron application description",
   "repository": "https://github.com/yxw007/electron-forge-demo.git",
   "main": "src/index.js",
